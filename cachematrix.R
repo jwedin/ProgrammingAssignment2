@@ -1,3 +1,6 @@
+## Programming assignment 2
+## by Jacob Wedin
+## 2020-04-10
 ## Put comments here that give an overall description of what your
 ## functions do
 
